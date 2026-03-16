@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   - [View my contributions on GitLab](https://gitlab.com/cowranga)
 
   **GROMACS** is a high-performance open source software package used by scientists 
-worldwide to simulate the movement of atoms and molecules — helping researchers 
+worldwide to simulate the movement of atoms and molecules, helping researchers 
 understand proteins, drugs, and materials at the atomic level.
