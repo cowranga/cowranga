@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Open Source Contributions
 
-- 🔬 **GROMACS** (Molecular Dynamics Software) — Developer Contributor
+- 🔬 **GROMACS** (Molecular Dynamics Software): Developer Contributor
   - [View my contributions on GitLab](https://gitlab.com/cowranga)
 
   **GROMACS** is a high-performance open source software package used by scientists 
